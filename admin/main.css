@@ -1,0 +1,49 @@
+html {}
+body{}
+
+.container {
+  background-color: rgb(246,246,239);
+  margin-left: 9%;
+  margin-right: 9%;
+}
+
+.row-nav {
+  background-color: rgb(255,102,0);
+}
+
+.nav {
+  list-style-type: none;
+}
+
+.nav img {
+  border: 1px white solid;
+}
+
+.nav h1 {
+  display: inline;
+  font-size: 1em;
+}
+
+.nav li {
+  display: inline;
+}
+
+.right {
+  text-align: right;
+}
+
+hr {
+  border: 1px solid rgb(255,102,0);
+}
+
+.row-footer {
+  text-align: center;
+}
+
+.footer {
+  list-style-type: none;
+}
+
+.footer li {
+  display: inline;
+}
